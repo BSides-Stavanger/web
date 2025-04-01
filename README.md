@@ -1,1 +1,1 @@
-# web
+# BSides Stavanager - landing page
