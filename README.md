@@ -1,1 +1,1 @@
-# BSides Stavanager - landing page
+# BSides Stavanger - landing page
